@@ -32,11 +32,9 @@ input2 = input1
 input1 = temp
 print('Swapped values are: {} {}'.format(input1,input2))
 ```
+
 ## OUTPUT:
 ![](./out1.png)
-
-
-
 
 ## RESULT:
 Thus the swapping of two values are successfully executed
